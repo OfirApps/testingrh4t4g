@@ -1,0 +1,1 @@
+python finder.py --workers 4 --cut-off 11.5m --range 1-1.25m 2.5m-12m --webhook-url https://discord.com/api/webhooks/886584940580442122/tI1mYXzV0dx7DmLE70zxKNHAag3fJsVnSXjitTs8RMShNEF5fVw8dgf3p_0G53BI7_nK --proxy-file proxies.txt
